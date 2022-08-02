@@ -9,4 +9,6 @@
 ...
 
 ## Front-End
-...
+
+`Eduardo Silva (81) 99350-4951, HTML CSS JavaScript React`
+
