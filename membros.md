@@ -10,3 +10,5 @@
 
 ## Front-End
 `Samuel Silva (75) 98859-0213, HTML CSS JavaScript`
+=======
+`Eduardo Silva (81) 99350-4951, HTML CSS JavaScript React`
